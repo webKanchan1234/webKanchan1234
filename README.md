@@ -87,7 +87,7 @@
 <a href="https://github.com/webKanchan1234?tab=followers"><img src="https://img.shields.io/github/followers/webKanchan1234?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <p align="center">
-     <a href="https://leetcode.com/kanchnkr/">
+     
 ![](https://leetcard.jacoblin.cool/kanchnkr?ext=heatmap)
-     </a>
+
 </p>
