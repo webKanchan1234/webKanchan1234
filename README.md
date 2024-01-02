@@ -88,6 +88,6 @@
 
 <p align="center">
      
-![](https://leetcard.jacoblin.cool/kanchnkr?ext=heatmap)
+![](https://leetcard.jacoblin.cool/kanchnkr)
 
 </p>
