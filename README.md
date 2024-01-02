@@ -85,3 +85,5 @@
     <img src="https://komarev.com/ghpvc/?username=webKanchan1234">
 </a>
 <a href="https://github.com/webKanchan1234?tab=followers"><img src="https://img.shields.io/github/followers/webKanchan1234?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+![](https://leetcard.jacoblin.cool/kanchnkr?ext=heatmap)
